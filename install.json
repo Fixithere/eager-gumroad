@@ -1,0 +1,24 @@
+{
+	"resources": {
+		"body": [
+			{
+				"type": "script",
+				"src": "./gumroad.js"
+			},
+			{
+				"type": "script",
+				"contents": "EagerGumroad.init(INSTALL_OPTIONS)"
+			}
+		]
+	},
+	"options": {
+		"properties": {
+			"asynchronous": {
+				"title": "Asynchronous",
+				"description": "Enables asynchronous loading.",
+				"type": "boolean",
+				"default": true
+			}
+		}
+	}
+}
