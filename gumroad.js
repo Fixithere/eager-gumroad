@@ -3,7 +3,6 @@ window.EagerGumroad = {
 	(function() {
 		var gumroad   = document.createElement('script');
 		gumroad.type  = 'text/javascript';
-		gumroad.async = options.asynchronous;
 		gumroad.id    = 'gumroad-overlay';
 		gumroad.src = '//gumroad.com/js/gumroad.js';
 		var source = document.getElementsByTagName('script')[0];
