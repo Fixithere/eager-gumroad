@@ -1,4 +1,7 @@
 # Gumroad for Eager
+
+Automatically add the Gumroad overlay to all of the products on your website or blog at the click of a button.
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nblackburn/eager-gumroad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## License
