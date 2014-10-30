@@ -25,6 +25,8 @@
 
 ## Donating
 
+[![I Love Open Source](http://www.iloveopensource.io/images/logo-lightbg.png)](http://www.iloveopensource.io/projects/5451846e87659fce66005557)
+
 ## References
 
 * [Gumroad](http://gumroad.com)
